@@ -13,16 +13,14 @@ h1{
     color:var(--cor_titulo)
 }
 .principal{
-    border: solid white 2px;
+    border: solid white 8px;
     text-align: center;
     height: 500px;
-    width: 200px;
-    border-radius: 10%;
+    border-radius: 1%;
+    padding: 5%;
 }
  button{
-    border-bottom: solid blueviolet;
-    border-radius: 5%;
-    color:red;
-
+    border: solid rgb(0,0,0);
+    margin: 1%
     
  }
